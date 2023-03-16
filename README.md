@@ -8,7 +8,9 @@ Listen to technical death metal while coding (ASM to Python..)
 
 - 🌱 I’m currently learning ...
 
-Data Science and Machine Learning on embedded devices. Embedded Linux with Yocto.
+Data Science and Machine Learning on embedded devices. 
+Embedded Linux with Yocto.
+Cybersecurity
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
